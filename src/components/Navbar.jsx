@@ -1,14 +1,14 @@
 function Navbar() {
   return (
-    <nav className="bg-black text-white p-4 flex justify-between items-center">
-      <h1 className="text-xl font-bold">Aline Portfolio</h1>
+    <nav className="bg-gray-900 text-white p-6 flex justify-between items-center fixed w-full">
+      <h1 className="text-2xl font-bold">Aline Portfolio</h1>
 
-      <ul className="flex gap-6">
-        <li className="hover:text-gray-400 cursor-pointer">Home</li>
-        <li className="hover:text-gray-400 cursor-pointer">About</li>
-        <li className="hover:text-gray-400 cursor-pointer">Projects</li>
-        <li className="hover:text-gray-400 cursor-pointer">Contact</li>
-      </ul>
+      <div className="flex gap-6 text-2xl">
+        <a href="#home" className="hover:text-gray-400 cursor-pointer">Home</a>
+        <a href="#about" className="hover:text-gray-400 cursor-pointer">About</a>
+        <a href="Projects.jsx" className="hover:text-gray-400 cursor-pointer">Projects</a>
+        <a href="#contact" className="hover:text-gray-400 cursor-pointer">Contact</a>
+      </div>
     </nav>
   );
 }

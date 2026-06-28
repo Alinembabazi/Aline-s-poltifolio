@@ -1,7 +1,7 @@
 function Footer() {
   return (
-    <footer className="bg-black text-white text-center p-4">
-      <p>© 2026 Aline Uwababyeyi Mbabazi. All Rights Reserved.</p>
+    <footer className="bg-gray-900 text-white text-center p-4 h-16">
+      <p>©Uwababyeyi. All Rights Reserved.</p>
     </footer>
   );
 }

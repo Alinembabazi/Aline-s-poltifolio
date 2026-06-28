@@ -10,11 +10,16 @@ function Projects() {
 
         <div className="bg-white p-6 shadow rounded">
           <h3 className="text-xl font-semibold mb-2">
-            Hospital Management System
+            Case chain management system
           </h3>
 
-          <p className="text-gray-600">
-            Python Tkinter system used to manage hospital data.
+          <p className="text-gray-600 justify-items">
+            Developed an online system to manage community
+issues efficiently within the Rwanda leadership
+structure. Citizens can submit problems digitally. If a
+village leader does not respond within a set timeframe,
+the issue is automatically escalated to the cell leader,
+and further to senior leadership if unresolved.
           </p>
         </div>
 
@@ -30,13 +35,69 @@ function Projects() {
 
         <div className="bg-white p-6 shadow rounded">
           <h3 className="text-xl font-semibold mb-2">
-            Portfolio Website
+            Flashcard learning app
           </h3>
 
-          <p className="text-gray-600">
-            Personal portfolio built with React and Tailwind.
+          <p className="text-gray-600 justify-items">
+            Developed a mobile app that helps students study
+efficiently by summarizing large topics into short, easy to
+remember flashcards. The app addresses common
+problems such as difficulty remembering large amounts of
+material, inefficient study methods, and lack of a simple
+tool for quick revision. It enables learners to review key
+points quickly, improving memory retention,
+understanding, and exam preparation.
           </p>
         </div>
+         <div className="bg-white p-6 shadow rounded">
+          <h3 className="text-xl font-semibold mb-2">
+            Flashcard learning app
+          </h3>
+
+          <p className="text-gray-600 justify-items">
+            Developed a mobile app that helps students study
+efficiently by summarizing large topics into short, easy to
+remember flashcards. The app addresses common
+problems such as difficulty remembering large amounts of
+material, inefficient study methods, and lack of a simple
+tool for quick revision. It enables learners to review key
+points quickly, improving memory retention,
+understanding, and exam preparation.
+          </p>
+        </div>
+        <div className="bg-white p-6 shadow rounded">
+          <h3 className="text-xl font-semibold mb-2">
+            Flashcard learning app
+          </h3>
+
+          <p className="text-gray-600 justify-items">
+            Developed a mobile app that helps students study
+efficiently by summarizing large topics into short, easy to
+remember flashcards. The app addresses common
+problems such as difficulty remembering large amounts of
+material, inefficient study methods, and lack of a simple
+tool for quick revision. It enables learners to review key
+points quickly, improving memory retention,
+understanding, and exam preparation.
+          </p>
+        </div>
+        <div className="bg-white p-6 shadow rounded">
+          <h3 className="text-xl font-semibold mb-2">
+            Flashcard learning app
+          </h3>
+
+          <p className="text-gray-600 justify-items">
+            Developed a mobile app that helps students study
+efficiently by summarizing large topics into short, easy to
+remember flashcards. The app addresses common
+problems such as difficulty remembering large amounts of
+material, inefficient study methods, and lack of a simple
+tool for quick revision. It enables learners to review key
+points quickly, improving memory retention,
+understanding, and exam preparation.
+          </p>
+        </div>
+        
 
       </div>
 
